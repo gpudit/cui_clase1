@@ -1,0 +1,8 @@
+/*Atributos del body*/
+#fondo {background-color:#e0e0e0;}
+/*Atributos del titulo principal*/
+#tituloPrincipal {font-family: 'Rubik Moonrocks', cursive; background-color: #8eacbb; text-align: center; margin-top: 0px; border-radius: 3px;}
+
+.preguntas {font-family: 'Rubik', sans-serif;}
+
+.respuestaAPreguntas {font-family: 'Rubik', sans-serif; margin-left: 15px;}
